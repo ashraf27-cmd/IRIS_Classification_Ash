@@ -58,13 +58,14 @@ The models achieved high classification accuracy on the Iris dataset, demonstrat
 
 ## Repo Structure
 
-IRIS_Classification_Ash/
+IRIS_Classification_Ash
 │
 ├── Iris Classification.py
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-└── Viz/
+│
+└── Viz
     ├── corrmap_iris.png
     ├── iris_pairplot.png
     ├── petal_length_boxplot.png
