@@ -57,7 +57,9 @@ Model performance was evaluated using:
 The models achieved high classification accuracy on the Iris dataset, demonstrating the effectiveness of supervised machine learning techniques for species prediction.
 
 ## Repo Structure
+## Repo Structure
 
+```text
 IRIS_Classification_Ash
 │
 ├── Iris Classification.py
@@ -72,8 +74,7 @@ IRIS_Classification_Ash
     ├── petal_width_boxplot.png
     ├── sepal_length_boxplot.png
     └── sepal_width_boxplot.png
-
-
+```
 ## Conclusion
 
 The analysis showed that petal-related features are highly influential in distinguishing Iris species. Through exploratory data analysis and machine learning classification, the project successfully predicted flower species with excellent performance across multiple classification algorithms.
